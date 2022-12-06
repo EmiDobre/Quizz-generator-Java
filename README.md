@@ -62,7 +62,9 @@ un fisier submit.csv care contine pe fiecare linie informatii despre cate un sin
 - o linie in submit: 'userul care l-a completat', nume quizz, nr intrebari, id quizz, punctaj obtinut
 
 -pentru a afisa detaliile, pentru fiecare quizz aflu numarul de intrebari, le gasesc dupa id in fisierul de intrebari
+
 -pentru fiecare intrebare ii gasesc linia in fisier, pentru ca mai apoi sa pot accesa urmatoarele linii din fisier ce reprezinta raspunsurile
+
 -pentru fiecare raspuns afisez detaliile sale 
 
 
